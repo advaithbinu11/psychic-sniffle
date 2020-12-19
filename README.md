@@ -1,1 +1,2 @@
-# psychic-sniffle
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
